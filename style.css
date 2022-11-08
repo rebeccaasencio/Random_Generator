@@ -25,7 +25,7 @@ body, html{
   justify-content: center;
   align-items: center;
   font-family: 'Petit Formal Script', cursive;
-  font-size: 40px;
+  font-size: 30px;
 }
 
 .Prompt{
@@ -47,7 +47,10 @@ body, html{
   justify-content: center;
   align-items: center;
   font-family: 'Petit Formal Script', cursive;
-  font-weight: bold;
+}
+
+#resultText{
+  font-size: 25px;
 }
 
 #img{
