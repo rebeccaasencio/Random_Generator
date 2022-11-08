@@ -61,6 +61,6 @@ body, html{
 }
 
 input, button{
-  height: 200px;
+  /* height: 200px; */
   font-size: 2.5vw;
 }
