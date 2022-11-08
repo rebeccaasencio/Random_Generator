@@ -43,7 +43,7 @@ function restyle() {
   var highlightColor = "rgb(" + randomRed + "," + randomGreen + "," + randomBlue + ")";
   outputText.style.backgroundColor = highlightColor;
 
-  var changeFontSize= ["small", "medium", "large", "x-large", "xx-large", "100%", "250%", "2cm"];
+  var changeFontSize= ["medium", "large", "x-large", "xx-large", "100%", "250%", "2cm"];
 
   outputText.style.fontSize = changeFontSize[Math.floor(Math.random()*changeFontSize.length)];
 
