@@ -5,7 +5,7 @@ var outputText = document.getElementById('resultText');
 var image = document.getElementById('img');
 
 var menu = ["tiramisu", "strawberry cheesecake", "steroid-infused chocolate cake", "blueberry pancakes", "cold pizza", "roasted chicken", "eggs and toast", "soup", "beef"];
-var rock = ["It doesn't matter what you think!", "*does people's elbow*", "*The Rock has entered the ring*", "If you smellllllllllll what The Rock is cooking!"]
+var rock = ["It doesn't matter what you think!", "*does people's elbow*", "*The Rock has entered the ring*", "If you smellllllllllll what The Rock is cooking!"];
 
 
 pressButton.addEventListener("click", generate);

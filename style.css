@@ -33,7 +33,7 @@ body, html{
   justify-content: center;
   align-items: center;
   font-family: 'Josefin Slab', serif;
-  font-size: 40px;
+  font-size: 30px;
 }
 
 .BoxTypeIn{
@@ -48,7 +48,6 @@ body, html{
   align-items: center;
   font-family: 'Petit Formal Script', cursive;
   font-weight: bold;
-  /* font-size: 60px; */
 }
 
 #img{
@@ -61,6 +60,5 @@ body, html{
 }
 
 input, button{
-  /* height: 200px; */
   font-size: 2.5vw;
 }
