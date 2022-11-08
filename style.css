@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Petit+Formal+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Slab&display=swap');
+
+* {
+  box-sizing: border-box;
+}
+
+body, html{
+  margin: 0;
+  padding: 0;
+  color: white;
+  background-color: black;
+}
+
+.pageContent{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 100%;
+}
+
+.Title{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Petit Formal Script', cursive;
+}
+
+.Prompt{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Josefin Slab', serif;
+}
+
+.BoxTypeIn{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.resultContainer{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Petit Formal Script', cursive;
+  font-weight: bold;
+}
+
+#img{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 300px;
+  height: 300px;
+  margin-bottom: 100px;
+}
