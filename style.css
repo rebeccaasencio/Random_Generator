@@ -25,6 +25,7 @@ body, html{
   justify-content: center;
   align-items: center;
   font-family: 'Petit Formal Script', cursive;
+  font-size: 40px;
 }
 
 .Prompt{
@@ -32,6 +33,7 @@ body, html{
   justify-content: center;
   align-items: center;
   font-family: 'Josefin Slab', serif;
+  font-size: 40px
 }
 
 .BoxTypeIn{
@@ -46,6 +48,7 @@ body, html{
   align-items: center;
   font-family: 'Petit Formal Script', cursive;
   font-weight: bold;
+  font-size: 40px;
 }
 
 #img{
